@@ -1,0 +1,16 @@
+{
+  "teams": [
+    { "id": 1, "name": "Arsenal", "short_name": "ARS", "code": 3 },
+    { "id": 2, "name": "Chelsea", "short_name": "CHE", "code": 8 }
+  ],
+  "elements": [
+    { "id": 1, "team": 1, "web_name": "Raya", "element_type": 1, "now_cost": 50, "total_points": 120, "code": 154561 },
+    { "id": 2, "team": 1, "web_name": "Saliba", "element_type": 2, "now_cost": 55, "total_points": 110, "code": 226597 },
+    { "id": 3, "team": 1, "web_name": "Odegaard", "element_type": 3, "now_cost": 85, "total_points": 150, "code": 226057 },
+    { "id": 8, "team": 1, "web_name": "Rice", "element_type": 3, "now_cost": 65, "total_points": 140, "code": 204480 },
+    { "id": 4, "team": 1, "web_name": "Saka", "element_type": 4, "now_cost": 90, "total_points": 200, "code": 223340 },
+    { "id": 5, "team": 2, "web_name": "Sanchez", "element_type": 1, "now_cost": 48, "total_points": 100, "code": 109745 },
+    { "id": 6, "team": 2, "web_name": "James", "element_type": 2, "now_cost": 60, "total_points": 90, "code": 200784 },
+    { "id": 7, "team": 1, "web_name": "MysteryManager", "element_type": 5, "now_cost": 40, "total_points": 10, "code": 999999 }
+  ]
+}
